@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/banner.jpg)
 
-Desenvolvedor Fullstack focado em soluções inovadoras e eficientes.
+(https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/html.svg)
 
 ## 🛠️ Projetos em Destaque
 - [Loja de games](https://github.com/LuizRibeiro-dev/loja_games): E-commerce para venda de jogos com funcionalidades de busca, registro de produtos etc.
@@ -14,4 +14,3 @@ promovendo impacto social e melhorias comunitárias.
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/-luizribeiro/)
 - [Email](mailto:luizribeirodesenvolvedor@gmail.com)
-# LuizRibeiro-dev
