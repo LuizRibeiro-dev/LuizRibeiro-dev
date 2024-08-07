@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/banner.jpg)
 
-(https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/html.svg)
+[](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/html.svg)
 
 ## 🛠️ Projetos em Destaque
 - [Loja de games](https://github.com/LuizRibeiro-dev/loja_games): E-commerce para venda de jogos com funcionalidades de busca, registro de produtos etc.
