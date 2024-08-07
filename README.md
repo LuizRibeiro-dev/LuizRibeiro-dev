@@ -36,6 +36,7 @@ promovendo impacto social e melhorias comunitárias.
 <table>
   <tr>
     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/172198726?v=4">
         <br>
         <b>Luiz Ribeiro</b>
       </a>
