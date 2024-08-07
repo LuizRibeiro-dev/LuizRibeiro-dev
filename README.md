@@ -36,13 +36,13 @@ promovendo impacto social e melhorias comunitárias.
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/172198726?v=4">
+      <img src="https://avatars.githubusercontent.com/u/172198726?v=4" width="140px">
         <br>
         <b>Luiz Ribeiro</b>
       </a>
       <br>
       <sub>
-     <a target="_blank" href="https://www.linkedin.com/in/-luizribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px">
+     <a target="_blank" href="https://www.linkedin.com/in/-luizribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px" >
       <br>
       </sub>    
     </td>
