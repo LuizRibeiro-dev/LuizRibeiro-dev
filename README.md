@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luiz Ribeiro 👋
 
-![Banner]([https://imgur.com/WevKYwR](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/banner.jpg))
+![Banner](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/banner.jpg)
 
 Desenvolvedor Fullstack focado em soluções inovadoras e eficientes.
 
