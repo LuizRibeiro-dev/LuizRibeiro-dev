@@ -26,7 +26,7 @@
 </div>
 
 ## 🛠️ Projetos em Destaque
-- [<img src="https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/lojagames.png" width="140px">](https://github.com/LuizRibeiro-dev/loja_games): E-commerce para venda de jogos com funcionalidades de busca, registro de produtos etc.
+- [<img src="https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/lojagames.png" width="55px">](https://github.com/LuizRibeiro-dev/loja_games): E-commerce para venda de jogos com funcionalidades de busca, registro de produtos etc.
 - [Conta bancaria](https://github.com/LuizRibeiro-dev/contabancaria): Sistema bancário desenvolvido em TypeScript para criação de contas e realização de
 transações. Inclui autenticação e segurança.
 - [StartSolidario](https://github.com/StartSolidario): Plataforma que permite doações e compra de pacotes de viagem para voluntariado,
