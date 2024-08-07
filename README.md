@@ -1,7 +1,5 @@
 # Olá! Eu sou o Luiz Ribeiro 👋
 
-![Banner](https://github.com/LuizRibeiro-dev/LuizRibeiro-dev/blob/main/banner.jpg)
-
 ## 💻 Tecnologias e Ferramentas utilizadas 
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
