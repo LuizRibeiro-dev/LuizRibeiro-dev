@@ -33,5 +33,18 @@ transações. Inclui autenticação e segurança.
 promovendo impacto social e melhorias comunitárias.
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/-luizribeiro/)
-- [Email](mailto:luizribeirodesenvolvedor@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <a target="_blank" href="https://github.com/LuizRibeiro-dev"><img src="https://avatars.githubusercontent.com/u/172198726?v=4" width="140px">
+        <br>
+        <b>Luiz Ribeiro</b>
+      </a>
+      <br>
+      <sub>
+     <a target="_blank" href="https://www.linkedin.com/in/-luizribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px">
+      <br>
+      </sub>    
+    </td>
+</tr>
+</table>
